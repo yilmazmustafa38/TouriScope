@@ -25,6 +25,7 @@ const MainScreen = () => {
     }
   };
 
+  
   return (
     <SafeAreaView style={styles.container}>
       <Text style={styles.title}>Tarihi Yapi Taniyici</Text>
